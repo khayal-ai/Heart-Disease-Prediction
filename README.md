@@ -66,22 +66,6 @@ The model performance is evaluated using:
 * **Recall**
 * **F1-Score**
 
-Example confusion matrix visualization:
-
-![Confusion Matrix](images/confusion_matrix.png)
-
----
-
-## Visualizations
-
-### Cholesterol Distribution
-
-![Cholesterol Histogram](images/cholesterol_histogram.png)
-
-### Heart Disease Distribution
-
-![Target Distribution](images/target_distribution.png)
-
 ---
 
 ## Installation
