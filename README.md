@@ -1,4 +1,4 @@
-# Heart Disease Prediction using K-Nearest Neighbors (KNN)
+# Heart Disease Prediction using K-Nearest Neighbors
 
 ## Overview
 
