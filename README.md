@@ -58,5 +58,6 @@ We tested different dataset sizes to analyze performance:
 - Decision Tree was significantly faster
 - Trade-off observed between accuracy and efficiency
 
-## KNN provides better accuracy but is computationally expensive.  
-## Decision Tree is faster and more scalable for large datasets.
+## Conclusion
+KNN provides better accuracy but is computationally expensive.  
+Decision Tree is faster and more scalable for large datasets.
